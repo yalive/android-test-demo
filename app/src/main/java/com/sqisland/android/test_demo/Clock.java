@@ -7,6 +7,7 @@ import javax.inject.Singleton;
 @Singleton
 public class Clock {
   // clock
+  // yalive commit
   public DateTime getNow() {
     return new DateTime();
   }
